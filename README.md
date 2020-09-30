@@ -19,3 +19,4 @@ For more details on the approach and the journey our team took, see [How we trai
 - [Official Magento Study Guide](https://u.magento.com/free-study-guide)
 - [Swift Otter Study Guide](https://swiftotter.com/technical/certifications/magento-2-frontend-developer-study-guide)
 - [Magento DevDocs](https://devdocs.magento.com/)
+-Thank You for visiting here
